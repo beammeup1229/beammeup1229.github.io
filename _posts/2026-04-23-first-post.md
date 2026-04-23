@@ -32,7 +32,3 @@ $$
 \text{AUPRC} = \int_0^1 P(R) \, dR
 $$
 
-#![설명글](/assets/img/posts/heatmap.png)
-
-#크기 지정:
-#![설명글](/assets/img/posts/heatmap.png){: width="600" }
