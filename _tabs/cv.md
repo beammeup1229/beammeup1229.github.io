@@ -6,8 +6,6 @@ order: 4
 
 **Last updated: 2026년 4월**
 
-[📄 Download PDF CV](/assets/pdf/cv.pdf)
-
 ---
 
 ## 🎓 Education
