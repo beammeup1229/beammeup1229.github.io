@@ -6,7 +6,6 @@ order: 4
 
 **Last updated: 2026년 4월**
 
-[📄 Download PDF CV](/assets/pdf/cv.pdf)
 
 ---
 
@@ -52,7 +51,8 @@ Ph.D. in Linguistic Information Science, Yonsei University
 
 ## 💼 Research Experience
 
-- **Research Student**, Institute of Language & Information Studies, Yonsei University (2021.09 – Present)
+- **Research fellow**, Institute of Language & Information Studies, Yonsei University (2026.03 - present)
+- **Research Student**, Institute of Language & Information Studies, Yonsei University (2021.09 – 2026.02)
 
 ---
 
