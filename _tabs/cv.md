@@ -35,17 +35,14 @@ Ph.D. in Linguistic Information Science, Yonsei University
   - 언어정보학협동과정
   - Thesis: *비유적 언어 표현을 활용한 초거대 언어 모델 텍스트 식별 연구*
   - Advisor: Hansaem Kim (김한샘)
-  - GPA: 4.05 / 4.3
 
 - **M.A. in Informatics**, Yonsei University (2019.09 – 2021.08)
   - 언어정보학협동과정
   - Thesis: *사전 훈련 언어 모델을 활용한 관용표현 분류 연구*
   - Advisor: Hansaem Kim (김한샘)
-  - GPA: 4.05 / 4.3
 
 - **B.A. in German Literature & Korean Language and Literature**, Yonsei University (2012.03 – 2017.08)
   - 독어독문학, 국어국문학
-  - GPA: 3.75 / 4.5
 
 ---
 
