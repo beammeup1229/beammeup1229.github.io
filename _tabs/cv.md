@@ -1,7 +1,7 @@
 ---
 title: CV
 icon: fas fa-user-tie
-order: 4
+order: 1
 ---
 
 **Last updated: 2026년 4월**
