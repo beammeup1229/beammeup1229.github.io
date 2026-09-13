@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-**Last updated: 2026년 4월**
-
+**Last updated: 2026.09.**
+ 
 
 ---
 
@@ -57,6 +57,7 @@ Ph.D. in Linguistic Information Science, Yonsei University
 
 ### Lecturer
 
+- **AI시대의 인간 미래와 윤리** — 연세대학교 첨단융합공학부 (2026-2)
 - **말뭉치언어학의 이해와 활용** — 성균관대학교 일반대학원 (2026-1)
 
 ### Teaching Assistant (Yonsei University)
@@ -84,21 +85,23 @@ Ph.D. in Linguistic Information Science, Yonsei University
 
 ### Domestic Journals (KCI)
 
-1. **박서윤**, 김재희, 김지학, 박경원, 정지훈, 천이쥔, 김한샘. (2025). LLM의 한국어 간접 화행 이해 능력 평가: 지시 화행을 중심으로. *언어와 정보*.
+1. **박서윤**, 강조은, 김지학, 나예찬, 박경원, 신현진, 안수빈, 엄주영, 왕소남, 윤미현, 임준호, 전형배 and 김한샘. (2026). 인공지능의 한국어 수행 양상과 정렬 분석─공무원 국어 시험 기반 벤치마크를 중심으로─. 한글, 87(2), 671-725.
 
-2. 함영균, 강예지, **박서윤**, 정용빈, 서현빈, 이이슬, 서혜진, 서샛별, 김한샘. (2024). 한국어 국회 회의록 생성 요약 말뭉치 구축 및 모델 개발. *정보과학회논문지*.
+2. **박서윤**, 김재희, 김지학, 박경원, 정지훈, 천이쥔, 김한샘. (2025). LLM의 한국어 간접 화행 이해 능력 평가: 지시 화행을 중심으로. *언어와 정보*.
 
-3. **박서윤**, 강예지, 강조은, 김유진, 이재원, 정가연, 최규리, 김한샘. (2024). GPT-4를 활용한 인간과 인공지능의 한국어 사용 양상 비교 연구. *국어국문학*.
+3. 함영균, 강예지, **박서윤**, 정용빈, 서현빈, 이이슬, 서혜진, 서샛별, 김한샘. (2024). 한국어 국회 회의록 생성 요약 말뭉치 구축 및 모델 개발. *정보과학회논문지*.
 
-4. 강예지, 비립, **박서윤**, 장연지, 이종규, 김한샘. (2024). 한국어 언어모델의 개인 식별 번호 처리 능력 연구. *한국콘텐츠학회 논문지*.
+4. **박서윤**, 강예지, 강조은, 김유진, 이재원, 정가연, 최규리, 김한샘. (2024). GPT-4를 활용한 인간과 인공지능의 한국어 사용 양상 비교 연구. *국어국문학*.
 
-5. 강예지, 김한샘, **박서윤**, 강조은, 김유진, 이재원, 정가연, 최규리, 최창수, 원인호, 김민준, 임현석, 임경태, 함영균. (2024). 인공지능의 한국어 능력 종합 평가를 위한 벤치마크. *한글*.
+5. 강예지, 비립, **박서윤**, 장연지, 이종규, 김한샘. (2024). 한국어 언어모델의 개인 식별 번호 처리 능력 연구. *한국콘텐츠학회 논문지*.
 
-6. 비립, 강예지, **박서윤**, 강혜린, 강조은, 김유진, 이재원, 김한샘. (2023). 한국어 인공지능 경진대회 및 리더보드 운영 방안 연구. *언어와 정보*.
+6. 강예지, 김한샘, **박서윤**, 강조은, 김유진, 이재원, 정가연, 최규리, 최창수, 원인호, 김민준, 임현석, 임경태, 함영균. (2024). 인공지능의 한국어 능력 종합 평가를 위한 벤치마크. *한글*.
 
-7. 비립, 이진, 강예지, **박서윤**, 이재원, 김유진, 강조은, 김한샘. (2022). 내·외 NLP 벤치마크의 태스크 선정 사례 분석을 중심으로. *언어와 정보*, 26(2), 47–86.
+7. 비립, 강예지, **박서윤**, 강혜린, 강조은, 김유진, 이재원, 김한샘. (2023). 한국어 인공지능 경진대회 및 리더보드 운영 방안 연구. *언어와 정보*.
 
-8. 김한샘, 강예지, **박서윤**, 장연지. (2022). 말뭉치 기반 관용 표현 연구 — 중의성의 해소를 중심으로. *한국어학*.
+8. 비립, 이진, 강예지, **박서윤**, 이재원, 김유진, 강조은, 김한샘. (2022). 내·외 NLP 벤치마크의 태스크 선정 사례 분석을 중심으로. *언어와 정보*, 26(2), 47–86.
+
+9. 김한샘, 강예지, **박서윤**, 장연지. (2022). 말뭉치 기반 관용 표현 연구 — 중의성의 해소를 중심으로. *한국어학*.
 
 ---
 
@@ -106,17 +109,19 @@ Ph.D. in Linguistic Information Science, Yonsei University
 
 ### International
 
-1. **Park, S.**, Choi, H., Kim, M., An, S., Wang, X., Choi, G., & Kim, H. (2025). FLUID QA: A Multilingual Benchmark for Figurative Language Usage in Dialogue across English, Chinese, and Korean. *EMNLP 2025*, Suzhou, China. **[Poster]**
+1.  **Park, S.**, Choi, H., An, S., Wang, X., Kim, H., Kang, J., & Kim, H. (2026). When Accuracy Aligns and Fails: Diagnosing Human–LLM Response Alignment at Population Scale *EMNLP 2026*, Budapest, Hungary. 
 
-2. **Park, S.**, Kim, J., & Kim, H. (2025). Too Polite to be Human: Evaluating LLM Empathy in Korean Conversations via a DCT-Based Framework. *ACL 2025 Workshop SICon*, Vienna, Austria. **[Oral]**
+2. **Park, S.**, Choi, H., Kim, M., An, S., Wang, X., Choi, G., & Kim, H. (2025). FLUID QA: A Multilingual Benchmark for Figurative Language Usage in Dialogue across English, Chinese, and Korean. *EMNLP 2025*, Suzhou, China. **[Poster]**
 
-3. **Park, S.**, Jang, Y., & Kim, H. (2024). A Study of Korean Sarcasm Corpus Construction for Measuring LLM's Ability of Sarcasm. *APCLC (Asia Pacific Corpus Linguistics Conference)*, Shanghai, China. **[Oral]**
+3. **Park, S.**, Kim, J., & Kim, H. (2025). Too Polite to be Human: Evaluating LLM Empathy in Korean Conversations via a DCT-Based Framework. *ACL 2025 Workshop SICon*, Vienna, Austria. **[Oral]**
 
-4. Choi, C., Jeong, Y., **Park, S.**, Won, I., Lim, H., Kim, S., Kang, Y., Yoon, C., Park, J., Lee, Y., Lee, H., Hahm, Y., Kim, H., & Lim, K. (2024). Optimizing Language Augmentation for Multilingual Large Language Models: A Case Study on Korean. *LREC/COLING 2024*, Torino, Italy. **[Oral]**
+4. **Park, S.**, Jang, Y., & Kim, H. (2024). A Study of Korean Sarcasm Corpus Construction for Measuring LLM's Ability of Sarcasm. *APCLC (Asia Pacific Corpus Linguistics Conference)*, Shanghai, China. **[Oral]**
 
-5. **Park, S.**, Jang, Y., Kang, Y., & Kim, H. (2023). A Study of Korean Multi Word Expression — Focused on Localization of PARSEME Shared Task. *The 23rd Meeting of the ICKL*, Olomouc, Czech Republic. **[Oral]**
+5. Choi, C., Jeong, Y., **Park, S.**, Won, I., Lim, H., Kim, S., Kang, Y., Yoon, C., Park, J., Lee, Y., Lee, H., Hahm, Y., Kim, H., & Lim, K. (2024). Optimizing Language Augmentation for Multilingual Large Language Models: A Case Study on Korean. *LREC/COLING 2024*, Torino, Italy. **[Oral]**
 
-6. **Park, S.**, Jang, Y., Kang, Y., Lee, J., Kang, J., Kim, Y., Choi, G., Jung, G., & Kim, H. (2023). Naturalness for Question Answering Dataset — A Case Study of Interrogative Sentences. *The 23rd Meeting of the ICKL*, Olomouc, Czech Republic. **[Oral]**
+6. **Park, S.**, Jang, Y., Kang, Y., & Kim, H. (2023). A Study of Korean Multi Word Expression — Focused on Localization of PARSEME Shared Task. *The 23rd Meeting of the ICKL*, Olomouc, Czech Republic. **[Oral]**
+
+7. **Park, S.**, Jang, Y., Kang, Y., Lee, J., Kang, J., Kim, Y., Choi, G., Jung, G., & Kim, H. (2023). Naturalness for Question Answering Dataset — A Case Study of Interrogative Sentences. *The 23rd Meeting of the ICKL*, Olomouc, Czech Republic. **[Oral]**
 
 ### Domestic
 
